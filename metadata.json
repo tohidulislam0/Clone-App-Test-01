@@ -1,0 +1,6 @@
+{
+  "name": "TwinSpace",
+  "description": "Multi-instance social media app cloner and isolated parallel session sandbox for Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

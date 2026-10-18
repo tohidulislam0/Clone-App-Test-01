@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TwinSpace</string>
+    <string name="hero_subtitle">Isolated Multi-Account Social Sandbox</string>
+    <string name="nav_workspace">Workspace</string>
+    <string name="nav_active">Running</string>
+    <string name="nav_catalog">Clone App</string>
+    <string name="nav_security">Sandbox</string>
+    <string name="action_new_clone">Clone Instance</string>
+    <string name="action_dual_view">Dual Split View</string>
+    <string name="action_pin_shortcut">Pin to Home Screen</string>
+    <string name="action_wipe_session">Wipe Isolated Session</string>
+    <string name="empty_workspace_title">No Cloned Instances In This Group</string>
+    <string name="empty_workspace_subtitle">Create a new isolated social media instance or switch workspace filter tabs above.</string>
+</resources>

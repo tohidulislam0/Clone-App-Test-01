@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Back Cloned Card (Violet Accent) inside 66dp safe zone (21..87) -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M44,26 L74,26 C77.3,26 80,28.7 80,32 L80,62 C80,65.3 77.3,68 74,68 L44,68 C40.7,68 38,65.3 38,62 L38,32 C38,28.7 40.7,26 44,26 Z" />
+    <!-- Inner Cutout of Back Card -->
+    <path
+        android:fillColor="#1A153B"
+        android:pathData="M45,33 L73,33 L73,61 L45,61 Z" />
+    <!-- Front Primary Instance Card (Electric Cyan) -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M34,40 L64,40 C67.3,40 70,42.7 70,46 L70,76 C70,79.3 67.3,82 64,82 L34,82 C30.7,82 28,79.3 28,76 L28,46 C28,42.7 30.7,40 34,40 Z" />
+    <!-- Dual Node Symbol inside Front Card -->
+    <path
+        android:fillColor="#0B0F19"
+        android:pathData="M49,51 C52.3,51 55,53.7 55,57 C55,60.3 52.3,63 49,63 C45.7,63 43,60.3 43,57 C43,53.7 45.7,51 49,51 Z M37,73 C37,68.5 42.4,66 49,66 C55.6,66 61,68.5 61,73 L61,75 L37,75 L37,73 Z" />
+    <!-- Spark Badge Top Right -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M67,35 L69,40 L74,42 L69,44 L67,49 L65,44 L60,42 L65,40 Z" />
+</vector>
